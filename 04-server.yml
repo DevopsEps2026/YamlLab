@@ -1,0 +1,10 @@
+server:
+  name: web-server
+  environment: dev
+  os: Linux
+  cpu: 4
+  memory: 16GB
+
+database:
+  type: PostgreSQL
+  port: 5432

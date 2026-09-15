@@ -1,0 +1,10 @@
+employee:
+  name: Amarnath
+  role: DevOps Engineer
+  location: Noida
+
+  skills:
+    - Azure
+    - AWS
+    - Terraform
+    - Docker

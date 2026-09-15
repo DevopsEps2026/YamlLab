@@ -1,0 +1,16 @@
+servers:
+
+  - name: web-server
+    environment: dev
+    cpu: 2
+    memory: 8GB
+
+  - name: app-server
+    environment: test
+    cpu: 4
+    memory: 16GB
+
+  - name: db-server
+    environment: prod
+    cpu: 8
+    memory: 32GB
